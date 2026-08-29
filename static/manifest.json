@@ -1,0 +1,12 @@
+{
+  "name": "P&ID OCR Review",
+  "short_name": "P&ID Review",
+  "dir": "rtl",
+  "lang": "fa",
+  "start_url": "/review",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#1b2430",
+  "orientation": "any"
+}
